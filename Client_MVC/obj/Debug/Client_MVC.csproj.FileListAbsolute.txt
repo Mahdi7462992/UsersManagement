@@ -1,0 +1,158 @@
+D:\Visual programs\DataLayer\Client_MVC\bin\Client_MVC.dll.config
+D:\Visual programs\DataLayer\Client_MVC\bin\Client_MVC.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\Client_MVC.pdb
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\csc.exe
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\csc.exe.config
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\csc.rsp
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\csi.exe
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\csi.exe.config
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\csi.rsp
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.AppContext.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Console.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.IO.Compression.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Net.Http.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Net.Sockets.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.ValueTuple.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Xml.XPath.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\vbc.exe
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\vbc.exe.config
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\vbc.rsp
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\VBCSCompiler.exe
+D:\Visual programs\DataLayer\Client_MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual programs\DataLayer\Client_MVC\bin\DataLayer.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Helpers.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Mvc.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Razor.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Webpages.Deployment.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Webpages.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Webpages.Razor.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\EntityFramework.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\DataLayer.pdb
+D:\Visual programs\DataLayer\Client_MVC\bin\DataLayer.dll.config
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Razor.xml
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Webpages.xml
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Webpages.Deployment.xml
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Webpages.Razor.xml
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Helpers.xml
+D:\Visual programs\DataLayer\Client_MVC\bin\System.Web.Mvc.xml
+D:\Visual programs\DataLayer\Client_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual programs\DataLayer\Client_MVC\bin\EntityFramework.xml
+D:\Visual programs\DataLayer\Client_MVC\obj\Debug\Client_MVC.csproj.AssemblyReference.cache
+D:\Visual programs\DataLayer\Client_MVC\obj\Debug\Client_MVC.csproj.CoreCompileInputs.cache
+D:\Visual programs\DataLayer\Client_MVC\obj\Debug\Client_MVC.csproj.CopyComplete
+D:\Visual programs\DataLayer\Client_MVC\obj\Debug\Client_MVC.dll
+D:\Visual programs\DataLayer\Client_MVC\obj\Debug\Client_MVC.pdb
+D:\Visual programs\DataLayer\Client_MVC\bin\EntityFramework.SqlServer.dll
+D:\Visual programs\DataLayer\Client_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\Client_MVC.dll.config
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\Client_MVC.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\Client_MVC.pdb
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\csc.exe
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\csc.exe.config
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\csc.rsp
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\csi.exe
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\csi.exe.config
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\csi.rsp
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Console.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\vbc.exe
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\vbc.exe.config
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\vbc.rsp
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\DataLayer.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\EntityFramework.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Helpers.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Mvc.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Razor.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Webpages.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\DataLayer.pdb
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\DataLayer.dll.config
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\EntityFramework.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Razor.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Webpages.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Helpers.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\System.Web.Mvc.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\obj\Debug\Client_MVC.csproj.AssemblyReference.cache
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\obj\Debug\Client_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\obj\Debug\Client_MVC.csproj.CopyComplete
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\obj\Debug\Client_MVC.dll
+C:\Users\Technic\Desktop\DataLayer\Client_MVC\obj\Debug\Client_MVC.pdb

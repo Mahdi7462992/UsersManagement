@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecd2fe7d-10f1-4117-9aea-ba261c6979a0": {
+      "ProjectGuid": "ecd2fe7d-10f1-4117-9aea-ba261c6979a0",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 0
+    },
+    "280a5732-81a6-44f8-a05b-81f775f9b1c0": {
+      "ProjectGuid": "280a5732-81a6-44f8-a05b-81f775f9b1c0",
+      "DisplayName": "Client_App",
+      "ColorIndex": 1
+    },
+    "f71dfa21-cd6d-4422-97be-4ef63c5da3c7": {
+      "ProjectGuid": "f71dfa21-cd6d-4422-97be-4ef63c5da3c7",
+      "DisplayName": "Client_MVC",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
